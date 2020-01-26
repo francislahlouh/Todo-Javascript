@@ -58,7 +58,7 @@
         var ulTodos = $('.todo-list');
         ulTodos.append(htmlString);
         $('.toggle').click(toggleTask);
-      });
-    });
-
+     });
   });
+
+});
