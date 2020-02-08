@@ -1,5 +1,7 @@
 {
   "name": "todo",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
